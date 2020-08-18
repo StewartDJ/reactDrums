@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactDrums/static/css/main.ac6712f7.chunk.css",
+    "main.js": "/reactDrums/static/js/main.62666088.chunk.js",
+    "main.js.map": "/reactDrums/static/js/main.62666088.chunk.js.map",
+    "runtime-main.js": "/reactDrums/static/js/runtime-main.323c254c.js",
+    "runtime-main.js.map": "/reactDrums/static/js/runtime-main.323c254c.js.map",
+    "static/js/2.cb36e1e0.chunk.js": "/reactDrums/static/js/2.cb36e1e0.chunk.js",
+    "static/js/2.cb36e1e0.chunk.js.map": "/reactDrums/static/js/2.cb36e1e0.chunk.js.map",
+    "index.html": "/reactDrums/index.html",
+    "precache-manifest.1fa4a2cfc71ac9bef548dc632e1233e3.js": "/reactDrums/precache-manifest.1fa4a2cfc71ac9bef548dc632e1233e3.js",
+    "service-worker.js": "/reactDrums/service-worker.js",
+    "static/css/main.ac6712f7.chunk.css.map": "/reactDrums/static/css/main.ac6712f7.chunk.css.map",
+    "static/js/2.cb36e1e0.chunk.js.LICENSE.txt": "/reactDrums/static/js/2.cb36e1e0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactDrums/static/media/bg.c277d414.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.323c254c.js",
+    "static/js/2.cb36e1e0.chunk.js",
+    "static/css/main.ac6712f7.chunk.css",
+    "static/js/main.62666088.chunk.js"
+  ]
+}
