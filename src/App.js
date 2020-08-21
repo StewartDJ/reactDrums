@@ -30,9 +30,9 @@ class App extends Component {
   render() { 
     return ( 
 
-<div className="container">
+<div className="container" id="drum-machine">
     <Header />
-    <div className="keys">
+    <div className="keys" id="display">
     <SoundOne />
     <SoundTwo />
     <SoundThree />
@@ -46,15 +46,15 @@ class App extends Component {
   </div>
 
 
-<audio data-key="65" src="./clap.wav"></audio>
-<audio data-key="83" src="./hihat.wav"></audio>
-<audio data-key="68" src="./kick.wav"></audio>
-<audio data-key="70" src="./openhat.wav"></audio>
-<audio data-key="71" src="./boom.wav"></audio>
-<audio data-key="72" src="./ride.wav"></audio>
-<audio data-key="74" src="./snare.wav"></audio>
-<audio data-key="75" src="./tom.wav"></audio>
-<audio data-key="76" src="./tink.wav"></audio>
+<audio data-key="65" src="./clap.wav" class="drum-pad"></audio>
+<audio data-key="83" src="./hihat.wav" class="drum-pad"></audio>
+<audio data-key="68" src="./kick.wav" class="drum-pad"></audio>
+<audio data-key="70" src="./openhat.wav" class="drum-pad"></audio>
+<audio data-key="71" src="./boom.wav" class="drum-pad"></audio>
+<audio data-key="72" src="./ride.wav" class="drum-pad"></audio>
+<audio data-key="74" src="./snare.wav" class="drum-pad"></audio>
+<audio data-key="75" src="./tom.wav" class="drum-pad"></audio>
+<audio data-key="76" src="./tink.wav" class="drum-pad"></audio>
 
 </div>
 
